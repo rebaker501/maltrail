@@ -1,0 +1,3 @@
+[submodule "trails/feeds"]
+	path = trails/feeds
+	url = https://github.com/rebaker501/MaltrailPlugins
